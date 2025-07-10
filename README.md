@@ -38,12 +38,8 @@ veya
 python3 adam_asmaca.py
 ```
 
-## Ekran Görüntüsü
-> ![Adam Asmaca Ekran Görüntüsü](ekran_goruntusu.png)
 
 ## Katkı ve Lisans
 - Her türlü katkıya açıktır.
 - MIT Lisansı ile lisanslanmıştır.
 
----
-**Hazırlayan:** [Senin Adın] 
